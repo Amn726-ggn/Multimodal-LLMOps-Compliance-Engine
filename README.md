@@ -61,8 +61,8 @@ Prerequisites
 - Appropriate Azure and other service credentials
 - uv (optional) or pip
 1. Clone the repository
-git clone <YOUR_REPOSITORY_URL>
-cd <YOUR_REPOSITORY_DIRECTORY>
+git clone https://github.com/Amn726-ggn/Multimodal-LLMOps-Compliance-Engine
+cd Multimodal-LLMOps-Compliance-Engine
 2. Set up the Python environment
 Option A — using uv:
 uv sync
